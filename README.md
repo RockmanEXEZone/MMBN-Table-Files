@@ -4,7 +4,7 @@ Character table files for the Mega Man Battle Network games, to be used for text
 
 Notes
 -----
-* In the general sense, adhere to the Table File Format as described here: 
+* For byte sequences that have yet to be identified, put a placeholder like so: [$00] or [$E400].
 * For Latin characters in Japanese table files, use the standard Latin alphabet Unicode characters; do not use full-width or half-width letter characters.
 * For Japanese characters in Japanese table files, use their full-width versions.
 * Try to use the same Unicode characters across all table files.
