@@ -4,6 +4,7 @@ Character table files for the Mega Man Battle Network games, to be used for text
 
 Notes
 -----
+* In the general sense, adhere to the Table File Format as described here: 
 * For Latin characters in Japanese table files, use the standard Latin alphabet Unicode characters; do not use full-width or half-width letter characters.
 * For Japanese characters in Japanese table files, use their full-width versions.
 * Try to use the same Unicode characters across all table files.
@@ -14,6 +15,7 @@ Notes
 * There are some exceptions to this:
   * In the case of shape symbols where no suitable Unicode symbol exists, put a brief description between brackets.
   * If such a symbol is grouped with other symbols that DO have suitable Unicode symbols, preferably put bracket descriptions for all of them.
+* In case a byte maps to an ACTUAL bracket character ('[' or ']'), escape it with a backslash, like so: \\[
 
 Progress
 --------
@@ -30,7 +32,7 @@ Progress
 | Battle Network Rockman EXE 1              | exe1-utf8.tbl    | JP       | GBA    | 0/0     | Not started.                   |
 | Battle Network Rockman EXE 2              | exe2-utf8.tbl    | JP       | GBA    | 0/0     | Not started.                   |
 | Battle Network Rockman EXE 3              | exe3-utf8.tbl    | JP       | GBA    | 0/0     | Not started.                   |
-| Rockman EXE 4                             | exe4-utf8.tbl    | JP       | GBA    | 0/0     | Should be similar to EXE 4.5.  |
+| Rockman EXE 4                             | exe4-utf8.tbl    | JP       | GBA    | 0/0     | Not started.                   |
 | Rockman EXE 4.5: Real Operation           | exe45-utf8.tbl   | JP       | GBA    | 441/441 | Done.                          |
 | Rockman EXE 5                             | exe5-utf8.tbl    | JP       | GBA    | 0/0     | Not started.                   |
 | Rockman EXE 6                             | exe6-utf8.tbl    | JP       | GBA    | 415/475 | Mostly done, some kanji left.  |
