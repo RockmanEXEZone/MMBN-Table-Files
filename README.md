@@ -37,7 +37,7 @@ Progress
 | Rockman EXE 5                             | exe5-utf8.tbl    | JP       | GBA    | 0/0     | Not started.                   |
 | Rockman EXE 6                             | exe6-utf8.tbl    | JP       | GBA    | 415/475 | Mostly done, some kanji left.  |
 | Rockman EXE Battle Chip GP                | exebcgp-utf8.tbl | JP       | GBA    | 0/0     | Not started.                   |
-| Rockman EXE WS                            | exews-utf8.tbl   | JP       | WSC    | 0/0     | Not started.                   |
+| Rockman EXE WS                            | exews-utf8.tbl   | JP       | WSC    | 298/323 | Some kanji left.               |
 | Rockman EXE N1 Battle                     | exen1b-utf8.tbl  | JP       | WSC    | 0/0     | Not started.                   |
 | Rockman EXE 5 DS: Twin Leaders            | exe5ds-utf8.tbl  | JP       | NDS    | 0/0     | Should be similar to EXE5 GBA. |
 | Rockman EXE: Operate Shooting Star        | exeoss-utf8.tbl  | JP       | NDS    | 0/0     | Probably similar to EXE1 GBA.  |
@@ -45,6 +45,7 @@ Progress
 Credits
 -------
 * Prof. 9
+* Greiga Master
 * cornshot
 
 Mega Man, Rockman, Mega Man Battle Network and Rockman EXE are (c) Capcom 1987 - 2014.
