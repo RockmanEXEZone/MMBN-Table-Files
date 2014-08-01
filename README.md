@@ -40,7 +40,7 @@ Progress
 | Rockman EXE WS                            | exews-utf8.tbl   | JP | WSC | 298/323 | Some kanji left.			|
 | Rockman EXE N1 Battle                     | exen1b-utf8.tbl  | JP | WSC | 0/0     | Not started.			|
 | Rockman EXE 5 DS: Twin Leaders            | exe5ds-utf8.tbl  | JP | NDS | 0/0     | Should be similar to EXE5 GBA.	|
-| Rockman EXE: Operate Shooting Star        | exeoss-utf8.tbl  | JP | NDS | 496/512 | Some kanji left.			|
+| Rockman EXE: Operate Shooting Star        | exeoss-utf8.tbl  | JP | NDS | 512/512 | Done.				|
 
 Credits
 -------
