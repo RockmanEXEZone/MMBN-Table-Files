@@ -29,7 +29,7 @@ Progress
 | Mega Man Battle Network 6                 | bn6-utf8.tbl     | EN | GBA | 460/460 | Done.				|
 | Mega Man Battle Chip Challenge            | bcc-utf8.tbl     | EN | GBA | 0/0     | Not started.			|
 | Mega Man Battle Network 5: Double Team DS | bn5ds-utf8.tbl   | EN | NDS | 0/0     | Should be similar to BN5 GBA.	|
-| Battle Network Rockman EXE 1              | exe1-utf8.tbl    | JP | GBA | 512/512 | Done.				|
+| Battle Network Rockman EXE                | exe1-utf8.tbl    | JP | GBA | 512/512 | Done.				|
 | Battle Network Rockman EXE 2              | exe2-utf8.tbl    | JP | GBA | 0/0     | Not started.			|
 | Battle Network Rockman EXE 3              | exe3-utf8.tbl    | JP | GBA | 0/0     | Not started.			|
 | Rockman EXE 4                             | exe4-utf8.tbl    | JP | GBA | 0/0     | Not started.			|
