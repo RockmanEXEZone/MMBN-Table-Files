@@ -33,7 +33,7 @@ Progress
 | Battle Network Rockman EXE 2              | exe2-utf8.tbl    | JP | GBA | 441/441 | Done.				|
 | Battle Network Rockman EXE 3              | exe3-utf8.tbl    | JP | GBA | 460/477 | Mostly done, some kanji left.	|
 | Rockman EXE 4                             | exe4-utf8.tbl    | JP | GBA | 441/441 | Done.				|
-| Rockman EXE 4.5: Real Operation           | exe45-utf8.tbl   | JP | GBA | 441/441 | Done.				|
+| Rockman EXE 4.5: Real Operation           | exe45-utf8.tbl   | JP | GBA | 440/440 | Done.				|
 | Rockman EXE 5                             | exe5-utf8.tbl    | JP | GBA | 0/0     | Not started.			|
 | Rockman EXE 6                             | exe6-utf8.tbl    | JP | GBA | 415/475 | Mostly done, some kanji left.	|
 | Rockman EXE Battle Chip GP                | exebcgp-utf8.tbl | JP | GBA | 436/467 | Mostly done, some kanji left.	|
