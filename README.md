@@ -49,4 +49,4 @@ Credits
 * Greiga Master
 * cornshot
 
-Mega Man, Rockman, Mega Man Battle Network and Rockman EXE are (c) Capcom 1987 - 2014.
+Mega Man, Rockman, Mega Man Battle Network and Rockman EXE are (c) Capcom 1987 - 2015.
