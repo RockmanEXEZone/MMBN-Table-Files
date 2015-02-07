@@ -32,7 +32,7 @@ Progress
 | Mega Man Battle Network 5: Double Team DS (EU) | bn5dse-utf8.tbl  | EN | NDS | 215/215 | Done.				|
 | Battle Network Rockman EXE                     | exe1-utf8.tbl    | JP | GBA | 512/512 | Done.				|
 | Battle Network Rockman EXE 2                   | exe2-utf8.tbl    | JP | GBA | 441/441 | Done.				|
-| Battle Network Rockman EXE 3                   | exe3-utf8.tbl    | JP | GBA | 466/478 | Mostly done, some kanji left.	|
+| Battle Network Rockman EXE 3                   | exe3-utf8.tbl    | JP | GBA | 478/478 | Done.				|
 | Rockman EXE 4                                  | exe4-utf8.tbl    | JP | GBA | 441/441 | Done.				|
 | Rockman EXE 4.5: Real Operation                | exe45-utf8.tbl   | JP | GBA | 440/440 | Done.				|
 | Rockman EXE 5                                  | exe5-utf8.tbl    | JP | GBA | 439/439 | Done.				|
