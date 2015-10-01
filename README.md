@@ -16,6 +16,7 @@ Notes
 * In the case of shape symbols where no suitable Unicode symbol exists, put a brief description between brackets.
 * If such a symbol is grouped with other symbols that DO have suitable Unicode symbols, preferably put bracket descriptions for all of them.
 * In case a byte maps to an ACTUAL bracket character ('[' or ']'), escape it with a backslash, like so: \\[
+* Because of the above, also escape backslash characters ('\') with another backslash, like so: \\\\
 
 Progress
 --------
