@@ -11,7 +11,7 @@ Notes
 * In case of duplicate characters, add [brackets] around the characters that are NOT used by the game.
 * Use single-character Unicode symbols as much as possible. For instance:
 * For "...", don't put three periods, but rather put the dedicated Unicode ellipsis character (U+2026).
-* For a "middle dot", don't put [middledot], but rather put the dedicate Unicode middle dot character (U+00B7).
+* For a "middle dot", don't put [middledot], but rather put the dedicated Unicode middle dot character (U+00B7).
 * There are some exceptions to this:
 * In the case of shape symbols where no suitable Unicode symbol exists, put a brief description between brackets.
 * If such a symbol is grouped with other symbols that DO have suitable Unicode symbols, preferably put bracket descriptions for all of them.
