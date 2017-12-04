@@ -20,33 +20,29 @@ Notes
 
 Progress
 --------
-| Game                                           | File             |    |     | Done    | Status				|
-|------------------------------------------------|------------------|----|-----|---------|--------------------------------------|
-| Mega Man Battle Network                        | bn1-utf8.tbl     | EN | GBA | 152/152 | Done.				|
-| Mega Man Battle Network 2                      | bn2-utf8.tbl     | EN | GBA | 105/105 | Done.				|
-| Mega Man Battle Network 3                      | bn3-utf8.tbl     | EN | GBA | 128/128 | Done.				|
-| Mega Man Battle Network 4                      | bn4-utf8.tbl     | EN | GBA | 114/114 | Done.				|
-| Mega Man Battle Network 5                      | bn5-utf8.tbl     | EN | GBA | 435/435 | Done. DS is identical.		|
-| Mega Man Battle Network 6                      | bn6-utf8.tbl     | EN | GBA | 461/461 | Done.				|
-| Mega Man Battle Chip Challenge                 | bcc-utf8.tbl     | EN | GBA | 436/467 | Mostly done, some kanji left.	|
-| Mega Man Battle Network 5: Double Team DS (EU) | bn5dse-utf8.tbl  | EN | NDS | 230/230 | Done.				|
-| Battle Network Rockman EXE                     | exe1-utf8.tbl    | JP | GBA | 513/513 | Done.				|
-| Battle Network Rockman EXE 2                   | exe2-utf8.tbl    | JP | GBA | 442/442 | Done.				|
-| Battle Network Rockman EXE 3                   | exe3-utf8.tbl    | JP | GBA | 480/480 | Done.				|
-| Rockman EXE 4                                  | exe4-utf8.tbl    | JP | GBA | 443/443 | Done.				|
-| Rockman EXE 4.5: Real Operation                | exe45-utf8.tbl   | JP | GBA | 441/441 | Done.				|
-| Rockman EXE 5                                  | exe5-utf8.tbl    | JP | GBA | 440/440 | Done.				|
-| Rockman EXE 6                                  | exe6-utf8.tbl    | JP | GBA | 457/457 | Done.				|
-| Rockman EXE Battle Chip GP                     | exebcgp-utf8.tbl | JP | GBA | 436/467 | Mostly done, some kanji left.	|
-| Rockman EXE WS                                 | exews-utf8.tbl   | JP | WSC | 298/323 | Some kanji left.			|
-| Rockman EXE N1 Battle                          | exen1b-utf8.tbl  | JP | WSC |   0/  0 | Not started.				|
-| Rockman EXE 5 DS: Twin Leaders                 | exe5ds-utf8.tbl  | JP | NDS | 435/435 | Done.				|
-| Rockman EXE: Operate Shooting Star             | exeoss-utf8.tbl  | JP | NDS | 513/513 | Done.				|
-
-Credits
--------
-* Prof. 9
-* Greiga Master
-* cornshot
+| Game                                           | File             |    |     | Status				|
+|------------------------------------------------|------------------|----|-----|--------------------------------|
+| Mega Man Battle Network                        | bn1-utf8.tbl     | EN | GBA | Done.				|
+| Mega Man Battle Network 2                      | bn2-utf8.tbl     | EN | GBA | Done.				|
+| Mega Man Battle Network 3                      | bn3-utf8.tbl     | EN | GBA | Done.				|
+| Mega Man Battle Network 4                      | bn4-utf8.tbl     | EN | GBA | Done.				|
+| Mega Man Battle Network 5                      | bn5-utf8.tbl     | EN | GBA | Done. DS is identical.		|
+| Mega Man Battle Network 6                      | bn6-utf8.tbl     | EN | GBA | Done.				|
+| Mega Man Battle Chip Challenge                 | bcc-utf8.tbl     | EN | GBA | Mostly done, some kanji left.	|
+| Mega Man Battle Network 5: Double Team DS (EU) | bn5dse-utf8.tbl  | EN | NDS | Done.				|
+| Mega Man Star Force                            | sf1-utf8.tbl     | EN | NDS | Done.				|
+| Battle Network Rockman EXE                     | exe1-utf8.tbl    | JP | GBA | Done.				|
+| Battle Network Rockman EXE 2                   | exe2-utf8.tbl    | JP | GBA | Done.				|
+| Battle Network Rockman EXE 3                   | exe3-utf8.tbl    | JP | GBA | Done.				|
+| Rockman EXE 4                                  | exe4-utf8.tbl    | JP | GBA | Done.				|
+| Rockman EXE 4.5: Real Operation                | exe45-utf8.tbl   | JP | GBA | Done.				|
+| Rockman EXE 5                                  | exe5-utf8.tbl    | JP | GBA | Done.				|
+| Rockman EXE 6                                  | exe6-utf8.tbl    | JP | GBA | Done.				|
+| Rockman EXE Battle Chip GP                     | exebcgp-utf8.tbl | JP | GBA | Mostly done, some kanji left.	|
+| Rockman EXE WS                                 | exews-utf8.tbl   | JP | WSC | Some kanji left.		|
+| Rockman EXE N1 Battle                          | exen1b-utf8.tbl  | JP | WSC | Not started.			|
+| Rockman EXE 5 DS: Twin Leaders                 | exe5ds-utf8.tbl  | JP | NDS | Done.				|
+| Rockman EXE: Operate Shooting Star             | exeoss-utf8.tbl  | JP | NDS | Done.				|
+| Ryuusei no Rockman                             | rnr1-utf8.tbl    | JP | NDS | Done.				|
 
 Mega Man, Rockman, Mega Man Battle Network and Rockman EXE are (c) Capcom.
