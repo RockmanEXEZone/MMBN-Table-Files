@@ -32,6 +32,7 @@ Progress
 | Mega Man Battle Network 5: Double Team DS (EU) | bn5dse-utf8.tbl  | EN | NDS | Done.				|
 | Mega Man Star Force                            | sf1-utf8.tbl     | EN | NDS | Done.				|
 | Mega Man Star Force 2                          | sf2-utf8.tbl     | EN | NDS | Done.                          |
+| Mega Man Star Force 3                          | sf3-utf8.tbl     | EN | NDS | Done.				|
 | Battle Network Rockman EXE                     | exe1-utf8.tbl    | JP | GBA | Done.				|
 | Battle Network Rockman EXE 2                   | exe2-utf8.tbl    | JP | GBA | Done.				|
 | Battle Network Rockman EXE 3                   | exe3-utf8.tbl    | JP | GBA | Done.				|
