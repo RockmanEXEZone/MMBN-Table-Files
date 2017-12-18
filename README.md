@@ -47,5 +47,6 @@ Progress
 | Rockman EXE: Operate Shooting Star             | exeoss-utf8.tbl  | JP | NDS | Done.				|
 | Ryuusei no Rockman                             | rnr1-utf8.tbl    | JP | NDS | Done.				|
 | Ryuusei no Rockman 2                           | rnr2-utf8.tbl    | JP | NDS | Done.                          |
+| Ryuusei no Rockman 3                           | rnr3-utf8.tbl    | JP | NDS | Done.				|
 
 Mega Man, Rockman, Mega Man Battle Network and Rockman EXE are (c) Capcom.
